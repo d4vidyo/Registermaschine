@@ -34,7 +34,7 @@ $f\left( adresse \right)$: Inhalt des Datenspeichers an der Stelle _adresse_.
 
 
 ## Beispielprogramm
-Berechnung von $\sum\limits_{i=0}^{n}i^{3}$ für ein eingegebenes $n$:
+Berechnung von $\sum_{i=0}^{n}i^{3}$ für ein eingegebenes $n$:
 ```
 INP01
 LDK0
