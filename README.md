@@ -8,7 +8,9 @@ Die Befehlsfrequenz kann als optionaler Parameter angegeben werden `Registermasc
 
 ## Namenskonventionen
 $PC$: Befehlszähler.
+
 $f\left( 0 \right)$: Inhalt des Akkumulators.
+
 $f\left( adresse \right)$: Inhalt des Datenspeichers an der Stelle _adresse_.
 
 ## Befehle
