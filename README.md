@@ -23,8 +23,8 @@ $f\left( adresse \right)$: Inhalt des Datenspeichers an der Stelle _adresse_.
 | LDA _adresse_ | $f(0)=f(adresse)$                       | Laden                         |
 | LDK _zahl_    | $f(0)=zahl$                             | Konstante Laden               |
 | STA _adresse_ | $f(adresse)=f(0)$                       | Speichern                     |
-| INP _adresse_ | $f(adresse)=<Eingabe>$                  | Eingeben                      |
-| OUT _adresse_ | $<Ausgabe> = f(adresse)$                | Ausgeben                      |
+| INP _adresse_ | $f(adresse)=[Eingabe]$                  | Eingeben                      |
+| OUT _adresse_ | $[Ausgabe] = f(adresse)$                | Ausgeben                      |
 | HLT 99        |                                         | Programmende                  |
 | JMP _adresse_ | $PC = adresse$                          | Jump                          |
 | JEZ _adresse_ | Falls $f(0)=0$, dann $PC = adresse$     | Jump if equal zero            |
